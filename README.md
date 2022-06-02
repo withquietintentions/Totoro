@@ -9,4 +9,4 @@ a hidden touch switch using copper fabric.
 
 <img src="https://github.com/withquietintentions/Totoro/blob/main/StillPhoto.jpg"
      alt="Still Image"
-     style="width: 300; height:AUTO; margin-left: 10px;" />
+     style="width: 500px; height:AUTO; margin-left: 10px;" />
